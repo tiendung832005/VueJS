@@ -6,6 +6,8 @@
   import Bai4Vue from "./components/Bai4.vue";
   import Bai5Vue from "./components/Bai5.vue";
   import Bai6Vue from "./components/Bai6.vue";
+  import Bai7Vue from "./components/Bai7.vue";
+  import Bai8Vue from "./components/Bai8.vue";
 </script>
 
 <template>
@@ -22,6 +24,10 @@
     <Bai5Vue></Bai5Vue>
     <br>
     <Bai6Vue></Bai6Vue>
+    <br>
+    <Bai7Vue></Bai7Vue>
+    <br>
+    <Bai8Vue></Bai8Vue>
   </div>
 </template>
 <style>
