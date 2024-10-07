@@ -16,9 +16,7 @@
     <router-view />
   </div>
 </template>
-
 <script setup>
-import { useRouter } from 'vue-router';
 import Bai7 from "./components/Bai7.vue"
 import Navbar from './components/Navbar.vue';
 // const router = useRouter();

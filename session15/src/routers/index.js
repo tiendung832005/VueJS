@@ -4,8 +4,8 @@ import Profile from "@/view/Profile.vue";
 import Bai1 from "@/components/Bai1.vue";
 import Bai2 from "@/components/Bai2.vue";
 import Bai3 from "@/components/Bai3.vue";
-import Bai4 from "@/components/bai4.vue";
-import BAi5 from "@/components/BAi5.vue";
+// import Bai4 from "@/components/bai4.vue";
+// import BAi5 from "@/components/BAi5.vue";
 import Product from "@/view/Product.vue";
 
 // Định nghĩa các route
@@ -31,7 +31,7 @@ const routes = [
     component: Bai4,
   },
   {
-    path: "/:pathMatch(.*)*",  // Đường dẫn không hợp lệ
+    path: "/:pathMatch(.*)*",  
     name: "NotFound",
     component: BAi5, 
   },
