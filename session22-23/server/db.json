@@ -1,0 +1,270 @@
+{
+  "products": [
+    {
+      "name": "Cam",
+      "price": 20000,
+      "quantity": 23,
+      "description": "Chua và chát",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Táo",
+      "price": 12000,
+      "quantity": 15,
+      "description": "Giòn và tươi"
+    },
+    {
+      "id": 3,
+      "name": "Chuối",
+      "price": 8000,
+      "quantity": 20,
+      "description": "Chín vàng, mềm"
+    },
+    {
+      "id": 4,
+      "name": "Dưa hấu",
+      "price": 15000,
+      "quantity": 7,
+      "description": "Ngọt và mọng nước"
+    },
+    {
+      "id": 5,
+      "name": "Nho",
+      "price": 20000,
+      "quantity": 12,
+      "description": "Nho ngọt, không hạt"
+    },
+    {
+      "id": 6,
+      "name": "Xoài",
+      "price": 18000,
+      "quantity": 8,
+      "description": "Chín, ngọt đậm"
+    },
+    {
+      "id": 7,
+      "name": "Bưởi",
+      "price": 25000,
+      "quantity": 5,
+      "description": "Bưởi hồng ngọt"
+    },
+    {
+      "id": 8,
+      "name": "Dứa",
+      "price": 9000,
+      "quantity": 10,
+      "description": "Ngọt và thơm"
+    },
+    {
+      "id": 9,
+      "name": "Lê",
+      "price": 14000,
+      "quantity": 13,
+      "description": "Giòn và mọng nước"
+    },
+    {
+      "id": 10,
+      "name": "Mận",
+      "price": 11000,
+      "quantity": 9,
+      "description": "Chua ngọt tự nhiên"
+    },
+    {
+      "id": 11,
+      "name": "Chanh",
+      "price": 6000,
+      "quantity": 25,
+      "description": "Tươi, có vị chua"
+    },
+    {
+      "id": 12,
+      "name": "Ổi",
+      "price": 9000,
+      "quantity": 18,
+      "description": "Ngọt và giòn"
+    },
+    {
+      "id": 13,
+      "name": "Lựu",
+      "price": 16000,
+      "quantity": 6,
+      "description": "Ngọt và nhiều hạt"
+    },
+    {
+      "id": 14,
+      "name": "Dừa",
+      "price": 12000,
+      "quantity": 14,
+      "description": "Nước ngọt, mát"
+    },
+    {
+      "id": 15,
+      "name": "Kiwi",
+      "price": 22000,
+      "quantity": 8,
+      "description": "Chua ngọt, bổ dưỡng"
+    },
+    {
+      "id": 16,
+      "name": "Sầu riêng",
+      "price": 30000,
+      "quantity": 4,
+      "description": "Đậm đà, mùi đặc trưng"
+    },
+    {
+      "id": 17,
+      "name": "Na",
+      "price": 17000,
+      "quantity": 10,
+      "description": "Chín mềm, thơm"
+    },
+    {
+      "id": 18,
+      "name": "Mãng cầu",
+      "price": 18000,
+      "quantity": 7,
+      "description": "Ngọt và nhiều dinh dưỡng"
+    },
+    {
+      "id": 19,
+      "name": "Quýt",
+      "price": 13000,
+      "quantity": 20,
+      "description": "Ngọt dịu, dễ ăn"
+    },
+    {
+      "id": 20,
+      "name": "Việt quất",
+      "price": 25000,
+      "quantity": 9,
+      "description": "Chua ngọt, giàu dinh dưỡng"
+    },
+    {
+      "name": "Mèn mén",
+      "price": 20000,
+      "quantity": 10,
+      "description": "Hơi khô",
+      "id": 21
+    },
+    {
+      "name": "Mèn mén",
+      "price": 20000,
+      "quantity": 10,
+      "description": "Hơi khô",
+      "id": 22
+    }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Cam tươi",
+      "img": "",
+      "price": 100000,
+      "quantity": 12,
+      "date": "25/03/2024"
+    },
+    {
+      "id": 2,
+      "name": "Táo lê",
+      "img": "",
+      "price": 250000,
+      "quantity": 150,
+      "date": "15/03/2024"
+    },
+    {
+      "id": 3,
+      "name": "Xoài",
+      "img": "",
+      "price": 300000,
+      "quantity": 102,
+      "date": "25/03/2024"
+    }
+  ],
+  "students": [
+        {
+            "id": 1,
+            "name": "Huy",
+            "email": "huy123@gmaail.com",
+            "address": "Hà Nội",
+            "phone": "0913343606",
+            "status": true,
+            "create_at": "10/10/2024"
+        },
+        {
+            "id": 2,
+            "name": "Lan",
+            "email": "lan456@gmail.com",
+            "address": "TP. Hồ Chí Minh",
+            "phone": "0934456677",
+            "status": false,
+            "create_at": "10/10/2024"
+        },
+        {
+            "id": 3,
+            "name": "Minh",
+            "email": "minh789@gmail.com",
+            "address": "Đà Nẵng",
+            "phone": "0909988776",
+            "status": true,
+            "create_at": "10/10/2024"
+        },
+        {
+            "id": 4,
+            "name": "Ngọc",
+            "email": "ngoc1011@gmail.com",
+            "address": "Hải Phòng",
+            "phone": "0922345678",
+            "status": false,
+            "create_at": "10/10/2024"
+        },
+        {
+            "id": 5,
+            "name": "Tuấn",
+            "email": "tuan1213@gmail.com",
+            "address": "Cần Thơ",
+            "phone": "0911122334",
+            "status": true,
+            "create_at": "10/10/2024"
+        }
+  ],
+    "articles": [
+      {
+        "id": 1,
+        "title": "State trong ReactJS",
+        "image": "https://via.placeholder.com/50",
+        "date": "04/03/2024",
+        "status": "Đã xuất bản"
+      },
+      {
+        "id": 2,
+        "title": "Tổng quan về ReactJS",
+        "image": "https://via.placeholder.com/50",
+        "date": "03/03/2024",
+        "status": "Đã xuất bản"
+      },
+      {
+        "id": 3,
+        "title": "Hooks trong ReactJS",
+        "image": "https://via.placeholder.com/50",
+        "date": "05/03/2024",
+        "status": "Chưa xuất bản"
+      },
+      {
+        "id": 4,
+        "title": "Component lifecycle trong VueJS",
+        "image": "https://via.placeholder.com/50",
+        "date": "06/03/2024",
+        "status": "Đã xuất bản"
+      },
+      {
+        "id": 5,
+        "title": "Vue Router và Navigation Guards",
+        "image": "https://via.placeholder.com/50",
+        "date": "07/03/2024",
+        "status": "Chưa xuất bản"
+      }
+    ]
+  
+  
+}
