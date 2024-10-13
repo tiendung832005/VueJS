@@ -1,0 +1,23 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Quét nhà",
+        "status": "todo", 
+        "isCompleted": false 
+      },
+      {
+        "id": 2,
+        "name": "Giặt quần áo",
+        "status": "completed",
+        "isCompleted": true
+      },
+      {
+        "id": 3,
+        "name": "Nấu cơm",
+        "status": "todo",
+        "isCompleted": false
+      }
+    ]
+  }
+  
